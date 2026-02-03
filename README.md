@@ -8,7 +8,14 @@ Key KPIs—including median salary, job count, and top hiring industry—update 
 # Question to Analyze
 To understand the AI job market and salary insights, i asked the following questions:
 
-1. Do more skills get you better pay?
-2. What’s the salary for AI jobs in different regions?
-3. What are the top skills of AI professionals?
-4. What’s the pay for the top 10 skills?
+1. Which AI job roles have the highest demand in 2025?
+2. Which countries are showing the fastest growth in AI job opportunities?
+3. Which industries are hiring AI professional most?
+4. Is higher demand always linked to higher salary?
+5. Do more skills get you better pay?
+6. What’s the salary for AI jobs in different regions?
+7. What are the top skills of AI professionals?
+8. What’s the pay for the top 10 skills?
+9. How does experience level affect AI job demand and salary?
+
+
