@@ -18,19 +18,25 @@ To understand the AI job market and salary insights, i asked the following quest
 8.  What’s the pay for the top 10 skills?
 9.  How does experience level affect AI job demand and salary?
 10. How do monthly job posting trends change throughout 2025, and which months show peak hiring activity?
+
+# Excel Skills Used 
+
+
+
+
+
     
 
 # Dataset Description
 Global AI Job Market & Salary Trends (2025), this comprehensive dataset contains detailed information about AI and machine learning job positions, salaries, and market trends across different countries, experience levels, and company sizes. Perfect for data science enthusiasts, career researchers, and market analysts for practice purposes.
 
 Key fields that i used of this dataset: 
-- Job id
-- Job title
-- Industry
-- Employment type
-- Company Location
-- Salary (USD)
-- Experience Level
-- Required Skills
-- Job Posting date
-
+- 🆔 Job ID
+- 💼 Job Title
+- 🏭 Industry
+- 🧾 Employment Type (Full‑time, Part‑time, Contract, etc.)
+- 🌍 Company Location
+- 💲 Salary (USD)
+- 🎓 Experience Level
+- 🛠️ Required Skills
+- 📅 Job Posting Date
