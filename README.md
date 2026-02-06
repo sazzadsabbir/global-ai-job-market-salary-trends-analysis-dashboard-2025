@@ -2,7 +2,7 @@
 Excel-Based Analysis & Interactive Dashboard
 ## Introduction
 This project provides a comprehensive analysis of the global AI job market in 2025, exploring how demand, salaries, skills, and hiring trends vary across roles, countries, industries, and experience levels. Using a structured dataset and an interactive Excel dashboard, the analysis uncovers which AI roles are most in demand, which countries are experiencing the fastest growth, and which industries are leading AI talent acquisition.
-Key metrics—including job count, median salary, skill frequency, and posting trends—update dynamically through user-selected filters. The project also evaluates whether high job demand correlates with higher salaries, whether more skills lead to better pay, and how salary levels differ across global regions. Additionally, it examines how experience level affects both job availability and compensation, and identifies monthly hiring patterns to reveal peak recruitment periods in 2025.
+Key metrics—including median salary, job count, and top hiring industry—update dynamically as users apply filters for job title, job location, and job type in the interactive dashboard. The project also evaluates whether high job demand correlates with higher salaries, whether more skills lead to better pay, and how salary levels differ across global regions. Additionally, it examines how experience level affects both job availability and compensation, and identifies monthly hiring patterns to reveal peak recruitment periods in 2025.
 Overall, this dashboard enables data-driven insights for students, job seekers, policymakers, and business leaders looking to understand global AI workforce dynamics.
 
 # Question to Analyze
