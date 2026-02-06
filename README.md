@@ -18,4 +18,16 @@ To understand the AI job market and salary insights, i asked the following quest
 8. What’s the pay for the top 10 skills?
 9. How does experience level affect AI job demand and salary?
 
+# Dataset Description
+Dataset Name: Global AI Job Market & Salary Trends (2025)
+Data Includes: 
+- Job id
+- Job title
+- Industry
+- Employment type
+- Company Location
+- Salary (USD)
+- Experience Level
+- Required Skills
+- Job Posting date
 
