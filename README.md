@@ -6,16 +6,16 @@ This project analyzes the global AI job market in 2025, focusing on how job dema
 # Question to Analyze
 To understand the AI job market and salary insights, i asked the following questions:
 
-Do more skills get you better pay?
-What’s the pay for the top 10 skills?
-What are the top skills of AI professionals?
-Is higher demand always linked to higher salary?
-What’s the salary for AI jobs in different regions?
-Which industries are hiring AI professionals most?
-Which AI job roles have the highest demand in 2025?
-How does experience level affect AI job demand and salary?
-Which countries are showing the fastest growth in AI job opportunities? 
-How do monthly job posting trends change throughout 2025, and which months show peak hiring activity?
+1.  Do more skills get you better pay?
+2.  What’s the pay for the top 10 skills?
+3.  What are the top skills of AI professionals?
+4.  Is higher demand always linked to higher salary?
+5.  What’s the salary for AI jobs in different regions?
+6.  Which industries are hiring AI professionals most?
+7.  Which AI job roles have the highest demand in 2025?
+8.  How does experience level affect AI job demand and salary?
+9.  Which countries are showing the fastest growth in AI job opportunities? 
+10. How do monthly job posting trends change throughout 2025, and which months show peak hiring activity?
 
 # Excel Skills Used 
 
